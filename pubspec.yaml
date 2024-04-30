@@ -1,0 +1,72 @@
+name: module_10_assignment
+description: "A Flutter assignment for module 10 or Exam Week 2."
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+#------------- Dependencies -------------#
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+
+#------------- Dev Dependencies -------------#
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.2
+
+flutter:
+
+  uses-material-design: true
+
+  #------------- Assets Data -------------#
+  assets:
+    - assets/images/
+
+  #------------- Custom Fonts -------------#
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto.ttf
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins.ttf
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
